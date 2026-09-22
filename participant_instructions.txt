@@ -1,0 +1,72 @@
+================================================================
+EMS STUDY — PARTICIPANT INFORMATION & INSTRUCTIONS
+================================================================
+
+Thank you for taking part in this study. Please read this
+sheet carefully before we begin.
+
+----------------------------------------------------------------
+WHAT THIS STUDY IS ABOUT
+----------------------------------------------------------------
+We have built a computer system that converts the way a person
+moves their mouse and types on a keyboard into sound, in
+real-time. The sounds change depending on how the person is
+feeling — whether they are stressed or calm.
+
+In this study, you will listen to short audio recordings made
+by this system and tell us what you hear.
+
+----------------------------------------------------------------
+WHAT YOU WILL DO
+----------------------------------------------------------------
+You will hear 8 audio recordings, each lasting 60 seconds.
+
+After each recording, you will:
+
+  1. Rate the sound on two scales:
+
+     AROUSAL — How energetic / activated did the sound feel?
+        1 = Very calm / sleepy
+        9 = Very energetic / excited
+
+     VALENCE — How pleasant / positive did the sound feel?
+        1 = Very unpleasant / negative
+        9 = Very pleasant / positive
+
+  2. Make a guess:
+     "Do you think the person who generated this sound was
+      STRESSED or RELAXED?"
+     Circle one: STRESSED / RELAXED
+
+  3. Rate your confidence:
+        1 = Just guessing
+        3 = Somewhat confident
+        5 = Very confident
+
+----------------------------------------------------------------
+IMPORTANT RULES
+----------------------------------------------------------------
+- Use headphones throughout the study.
+- Listen to the full 60 seconds before rating.
+- There are no right or wrong answers — we want your honest
+  first impression.
+- Please do not talk during the recordings.
+- You may ask questions at any time.
+
+----------------------------------------------------------------
+YOUR RIGHTS
+----------------------------------------------------------------
+- Your participation is voluntary. You may stop at any time.
+- Your responses are anonymous. No personal data is collected.
+- Results will be used for academic research only.
+
+----------------------------------------------------------------
+TRAINING TRIALS
+----------------------------------------------------------------
+Before the main study, you will hear 2 practice recordings.
+These are just to help you get familiar with the rating process.
+Your responses to the practice trials will NOT be analysed.
+
+----------------------------------------------------------------
+Please sign the consent form when you are ready to begin.
+================================================================

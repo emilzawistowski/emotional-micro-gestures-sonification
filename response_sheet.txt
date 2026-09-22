@@ -1,0 +1,130 @@
+================================================================
+EMS STUDY — RESPONSE SHEET
+================================================================
+Participant ID: _______     Date: ___________     Order: _______
+
+Please fill in one block per audio excerpt.
+================================================================
+
+--- TRIAL 1 ---
+
+AROUSAL  (1 = very calm  ←————————→  9 = very energetic)
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+VALENCE  (1 = very unpleasant  ←————————→  9 = very pleasant)
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+Emotional state of the person generating the sound?
+   Circle one:    STRESSED        RELAXED
+
+Confidence:   1 (just guessing)   2   3 (somewhat)   4   5 (certain)
+
+----------------------------------------------------------------
+
+--- TRIAL 2 ---
+
+AROUSAL
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+VALENCE
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+Emotional state?
+   Circle one:    STRESSED        RELAXED
+
+Confidence:   1    2    3    4    5
+
+----------------------------------------------------------------
+
+--- TRIAL 3 ---
+
+AROUSAL
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+VALENCE
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+Emotional state?
+   Circle one:    STRESSED        RELAXED
+
+Confidence:   1    2    3    4    5
+
+----------------------------------------------------------------
+
+--- TRIAL 4 ---
+
+AROUSAL
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+VALENCE
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+Emotional state?
+   Circle one:    STRESSED        RELAXED
+
+Confidence:   1    2    3    4    5
+
+----------------------------------------------------------------
+
+--- TRIAL 5 ---
+
+AROUSAL
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+VALENCE
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+Emotional state?
+   Circle one:    STRESSED        RELAXED
+
+Confidence:   1    2    3    4    5
+
+----------------------------------------------------------------
+
+--- TRIAL 6 ---
+
+AROUSAL
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+VALENCE
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+Emotional state?
+   Circle one:    STRESSED        RELAXED
+
+Confidence:   1    2    3    4    5
+
+----------------------------------------------------------------
+
+--- TRIAL 7 ---
+
+AROUSAL
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+VALENCE
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+Emotional state?
+   Circle one:    STRESSED        RELAXED
+
+Confidence:   1    2    3    4    5
+
+----------------------------------------------------------------
+
+--- TRIAL 8 ---
+
+AROUSAL
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+VALENCE
+   Circle one:    1    2    3    4    5    6    7    8    9
+
+Emotional state?
+   Circle one:    STRESSED        RELAXED
+
+Confidence:   1    2    3    4    5
+
+================================================================
+
+Thank you.
+================================================================

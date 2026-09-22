@@ -1,0 +1,27 @@
+
+# --- SuperCollider ---
+sc_host:    "127.0.0.1"
+sc_port:    57110
+sc_node_id: 1000
+
+# --- Feature extraction ---
+window_seconds:    0.5
+kb_window_seconds: 2.0
+tick_interval:     0.05
+mouse_throttle_hz: 200.0          # ZWIĘKSZONE: lepsza rozdzielczość na M4
+
+# --- Adaptive normalisation ---
+calibration_seconds:    10.0      # krócej, bo wartości są mniejsze
+calibration_percentile: 95.0      # 95. percentyl – więcej wartości w [0,1]
+
+# --- Affective mapping ---
+ema_alpha:    0.08
+pitch_center: 60.0
+pitch_range:  14.0
+
+# --- Synthesis ---
+max_update_hz: 20.0
+
+# --- Logging ---
+output_dir: "sessions"
+use_hdf5:   true

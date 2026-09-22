@@ -1,0 +1,26 @@
+# EMS — Emotional Micro-gestures Sonification
+# Requirements for macOS (Apple Silicon) + SuperCollider setup
+#
+# Install with:
+#   pip install -r requirements.txt
+
+# Input capture
+pynput>=1.7.6
+
+# Numerics
+numpy>=1.24.0
+
+# Config
+pyyaml>=6.0
+
+# SuperCollider communication
+python-osc>=1.8.0
+
+# Session logging
+h5py>=3.8.0
+
+# Analysis and visualisation (Phase 3 and 7)
+pandas>=2.0.0
+scipy>=1.11.0
+matplotlib>=3.7.0
+plotly>=5.14.0
