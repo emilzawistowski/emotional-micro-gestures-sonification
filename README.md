@@ -53,13 +53,6 @@ running `main.py`, otherwise `pynput` receives no mouse/keyboard events.
 Recorded sessions (`sessions/*.h5`) and rendered stimuli (`*.wav`) are
 intentionally excluded; obtain or record compatible input separately.
 
-## Status
-
-This is an academic prototype. A listener study (N = 12) found above-chance
-identification of the operator's emotional condition from audio alone, but the
-mapping has not been validated beyond that study and reproducibility depends on
-the local display, input hardware, and SuperCollider setup.
-
 ## Attribution
 
 Created by Emil Zawistowski for coursework in Sound and Music Computing at Aalborg University.
